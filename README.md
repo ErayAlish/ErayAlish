@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ErayAlish
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning html, C#
 - 📫 How to reach me erayalish16@gmail.com
 
 <!---
