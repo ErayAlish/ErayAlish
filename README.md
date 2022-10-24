@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning html, C#
 - 📫 How to reach me erayalish16@gmail.com
-- 💯 Hobbyy Anime, F1
+- 💯 Hobby Anime, F1
 - 💦 ask me quetions about cars (JDM)
 - 🏆 dont give up
 
