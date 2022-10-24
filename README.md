@@ -2,6 +2,9 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning html, C#
 - 📫 How to reach me erayalish16@gmail.com
+- 💯 Hobbyy Anime, F1
+- 💦 ask me quetions about cars (JDM)
+- 🏆 dont give up
 
 <!---
 ErayAlish/ErayAlish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
