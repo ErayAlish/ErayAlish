@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html, C#
 - 📫 How to reach me erayalish16@gmail.com
 - 💯 Hobby Anime, F1
-- 💦 ask me all quetions about the cars (JDM)
+- 💦 ask me all quetions about cars (JDM)
 - 🏆 dont give up
 
 <!---
