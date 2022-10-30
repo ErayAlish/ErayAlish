@@ -1,13 +1,14 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
 
 <h1 align="center">Hi 👋, I'm Eray</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/view/hffgf-gif-22453222](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)">
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
+")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erayalish&label=Profile%20views&color=0e75b6&style=flat" alt="erayalish" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erayalish" alt="erayalish" /></a> </p>
 
-- 🔭 I’m currently working on **my self**
+- 🔭 I’m currently working on **myself**
 
 - 🌱 I’m currently learning **C#, HTML**
 
