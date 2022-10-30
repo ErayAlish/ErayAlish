@@ -20,7 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErayAlish=compact)](https://github.com/v)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=ErayAlish.ErayAlish)](https://www.ErayAlish.dev/)
 
 <!---
 ErayAlish/ErayAlish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
