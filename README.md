@@ -18,7 +18,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ErayAlish)](https://github.com/ErayAlish)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErayAlish=compact)](https://github.com/v)
+
 
 
 <!---
