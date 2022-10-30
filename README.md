@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Eray</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erayalish&label=Profile%20views&color=0e75b6&style=flat" alt="erayalish" /> </p>
 
