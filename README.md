@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://www.ErayAlish.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+  <a href="[https://www.ErayAlish.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner](https://www.canva.com/design/DAFQiXGmo8c/p7DPrU1UVd5z1ZHJ7SB8Sw/edit?utm_content=DAFQiXGmo8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.ErayAlish.dev/" target="_blank" rel="noreferrer">YEray</a> 👋
+Hi there, I'm <a href="https://www.ErayAlish.dev/" target="_blank" rel="noreferrer">Eray</a> 👋
 </h3>
 
 
@@ -13,7 +13,7 @@ Hi there, I'm <a href="https://www.ErayAlish.dev/" target="_blank" rel="noreferr
   
 
    
-- 👋  Hi, I’m ErayAlish
+
 - 👀  I’m interested in Coding
 - 🌱  I’m currently learning html, C#
 - 💯  Hobby Anime, F1
