@@ -1,4 +1,7 @@
-
+<p align=”center”>
+<img width=”200" height=”200" <img src=”https://www.canva.com/design/DAFQi3mAks4/lOSzRlIhQVfdNt1xxjo0fw/edit?utm_content=DAFQi3mAks4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton”>>
+</p>
+                                                                                                                                         
 <h1 align="center">Hi 👋, I'm Eray</h1>
 <h3 align="center">A passionate frontend developer from Bulgaria</h3>
 <div id="header" align="center">
