@@ -1,4 +1,5 @@
-<body.
+</head>
+<body>
 ## Eray Alish
 
 
@@ -10,8 +11,10 @@
 - 🏆  dont give up
 - 📫  How to reach me erayalish16@gmail.com
 
-<body>
+
 <!---
 ErayAlish/ErayAlish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</head> 
+</html>
