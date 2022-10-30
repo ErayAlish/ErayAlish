@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[https://www.ErayAlish.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner](https://www.canva.com/design/DAFQiXGmo8c/p7DPrU1UVd5z1ZHJ7SB8Sw/edit?utm_content=DAFQiXGmo8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)"></a>
+  <a href="https://www.canva.com/design/DAFQiXGmo8c/p7DPrU1UVd5z1ZHJ7SB8Sw/edit?layoutQuery=Eray></a>
 </p>
 
 <h3 align="center">
