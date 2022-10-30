@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="[https://www.yushi.dev/](https://dev.to/erayalish)" target="_blank" rel="noreferrer"><img src="https://www.canva.com/design/DAFQi3mAks4/rA6yzg8T-HVgWk6lToxeVQ/view?utm_content=DAFQi3mAks4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview"></a>
-</p>
+![Elegant Monogram Logo Minimalist Schwarz](https://user-images.githubusercontent.com/111420915/198899368-f1986ffa-9a49-4ea8-852b-a59c57833ce6.gif)
 
 
 <h1 align="center">Hi 👋, I'm Eray</h1>
