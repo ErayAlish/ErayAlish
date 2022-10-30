@@ -1,11 +1,11 @@
 </head>
 <body>
   
-## Eray Alish
-
-  <a href="https://www.instagram.com/_ERAYALISH/>
+   <a href="https://www.instagram.com/_ERAYALISH/>
   <ion-icon name="logo-instagram"></ion-icon>
   </a>
+  
+## Eray Alish
    
 - 👋  Hi, I’m ErayAlish
 - 👀  I’m interested in Coding
