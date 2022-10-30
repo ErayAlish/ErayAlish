@@ -3,7 +3,10 @@
   
 ## Eray Alish
 
-
+  <a href= "https://www.instagram.com/_ERAYALISH/>
+     <ion-icon name="logo-instagram"></ion-icon>
+   </a>
+   
 - 👋  Hi, I’m ErayAlish
 - 👀  I’m interested in Coding
 - 🌱  I’m currently learning html, C#
