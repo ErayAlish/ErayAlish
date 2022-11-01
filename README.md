@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **C#, HTML**
+- 🌱 I’m currently learning **C#, HTML, CSS, JS**
 
 - 💬 Ask me about **everyhing**
 
