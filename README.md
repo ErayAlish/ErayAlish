@@ -13,7 +13,7 @@ text-align:![Elegant Monogram Logo Minimalist Schwarz](https://user-images.githu
 
 - 🌱 I’m currently learning **C#, HTML, CSS, JS**
 
-- 💬 Ask me about **everyhing**
+- 💬 Ask me about **everything**
 
 - 📫 How to reach me **erayyalish@gmail.com**
 
