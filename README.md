@@ -6,8 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erayalish&label=Profile%20views&color=0e75b6&style=flat" alt="erayalish" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erayalish" alt="erayalish" /></a> </p>
+
 
 - 🔭 I’m currently working on **myself**
 
@@ -35,6 +34,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erayalish&" alt="erayalish" /></p>
 
 ## 📈 GitHub Stats 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erayalish&label=Profile%20views&color=0e75b6&style=flat" alt="erayalish" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erayalish" alt="erayalish" /></a> </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ErayAlish)](https://github.com/ErayAlish)
 
