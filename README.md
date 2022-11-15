@@ -1,4 +1,4 @@
-![Elegant Monogram Logo Minimalist Schwarz](https://user-images.githubusercontent.com/111420915/198899368-f1986ffa-9a49-4ea8-852b-a59c57833ce6.gif)
+<img align="center" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="1000" height="500" />
 
 <h1 align="center">Hi 👋, I'm Eray</h1>
 
