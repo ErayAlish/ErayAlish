@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Eray</h1>
 
-<h3 align="center">A passionate frontend developer from Bulgaria</h3>
+<h3 align="center">A passionate front/backend developer from Bulgaria</h3>
 
 
 
